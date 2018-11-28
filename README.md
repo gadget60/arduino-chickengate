@@ -25,14 +25,15 @@ Main issue is to keep power consumption low, because the controller as well as m
 
 ## PINS
 ```
-#define WAKE_UP_PIN 7           // D7 --> Wake up pin
-#define WAKE_UP_INTERRUPT 4     // D7 INT
-#define MOTOR_A_PWM 6           // D6 --> Motor A PWM Speed
-#define MOTOR_A_DIR 5           // D5 --> Motor A Direction
-#define MOTOR_DRIVER_POWER 9    // D9 --> Driver Power (Transistor Base)
-#define BUTTON_UP 14            // D14 Up button, normally open
-#define BUTTON_DOWN 15          // D15 Down button, normally open
-#define ENDSWITCH_TOP 10        // D10 --> End switch top, normally closed
-#define ENDSWITCH_BOTTOM 16     // D16 --> End switch bottom, normally closed
+D2  --> I2C data (Realtime clock SDA)
+D3  --> I2C clock (Realtime clock SCL)
+D7  --> Wake up pin
+D6  --> Motor A PWM Speed
+D5  --> Motor A Direction
+D9  --> Driver Power (Transistor Base)
+D14 --> Up button, normally open
+D15 --> Down button, normally open
+D10 --> End switch top, normally closed
+D16 --> End switch bottom, normally closed
 ```
 
