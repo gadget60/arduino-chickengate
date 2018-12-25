@@ -39,10 +39,10 @@ D16 --> End switch bottom, normally closed
 
 ## Scheme
 
-![Scheme](https://github.com/gadget60/arduino-chickengate/master/arduino-chickengate/scheme.png)
+![Scheme](https://github.com/gadget60/arduino-chickengate/blob/master/scheme.png)
 
 ## Images
 
-![](https://github.com/gadget60/arduino-chickengate/master/images/DSC_0789.JPG)
+![](https://github.com/gadget60/arduino-chickengate/blob/master/images/DSC_0789.JPG)
 
 
