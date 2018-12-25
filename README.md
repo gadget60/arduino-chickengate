@@ -37,3 +37,12 @@ D10 --> End switch top, normally closed
 D16 --> End switch bottom, normally closed
 ```
 
+## Scheme
+
+![Scheme](https://github.com/gadget60/arduino-chickengate/master/arduino-chickengate/scheme.png)
+
+## Images
+
+![](https://github.com/gadget60/arduino-chickengate/master/images/DSC_0789.JPG)
+
+
