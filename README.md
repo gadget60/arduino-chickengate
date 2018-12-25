@@ -15,7 +15,7 @@ Available commands:
 The door is openend/closed by a high torque gear motor, driven by a L9110 DC stepper driver board. There are two buttons for manual opening/closing the door and two mechanical end switches (top and bottom).
 
 ## Power
-Main issue is to keep power consumption low, because the controller as well as mechanics are driven by a small solar panel that feeds 4x1.2V rechargeable batteries. First of all, I got rid of the power LED on the ProMicro board by soldering. Due to high power consumption of the motor driver board, it is powered off via a transistor in idle mode. Finally onboard USB is disabled and the ProMicro is set to SLEEP_MODE_PWR_DOWN.
+Main issue is to keep power consumption low, because the controller as well as mechanics are driven by a small solar panel that feeds 4x1.2V rechargeable batteries. First of all, I got rid of the power LED on the ProMicro board by soldering it out. Due to high power consumption of the motor driver board, it is powered off via a transistor in idle mode. Finally onboard USB is disabled and the ProMicro is set to SLEEP_MODE_PWR_DOWN.
 
 ## Hardware
 - ProMicro Atmega 5V/16MHz (Dev-12640)
