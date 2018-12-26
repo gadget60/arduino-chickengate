@@ -20,7 +20,7 @@ Main issue is to keep power consumption low, because the controller as well as m
 ## Hardware
 - ProMicro Atmega 5V/16MHz (Dev-12640), https://cdn.sparkfun.com/datasheets/Dev/Arduino/Boards/ProMicro16MHzv1.pdf
 - DS1307 Real Time Clock module
-- L9110 DC stepper driver board
+- L9110 DC motor driver board
 - 6V high torque gear motor (ZnDiy-BRY 25GA-6V-80 DC 6V 80rpm)
 - Solar panel, 0.5W, max voltage around 9V
 
